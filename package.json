@@ -1,0 +1,26 @@
+{
+  "name": "fight-for-humanity",
+  "version": "1.0.0",
+  "description": "Humanity and sympathetic robotic AI forces come together to defeat the rogue AI robots who wish to destroy the backwards race of human beings. Awesome FPS action.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/king7hills/fight-for-humanity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/king7hills/fight-for-humanity/issues"
+  },
+  "homepage": "https://github.com/king7hills/fight-for-humanity#readme",
+  "dependencies": {
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.2"
+  }
+}
